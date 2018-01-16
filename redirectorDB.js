@@ -10,6 +10,6 @@ var redirectorDB = {
     "git": 'https://github.com/SohanChy?tab=repositories',
     "gists": 'https://gist.github.com/SohanChy',
     "twitter": 'https://twitter.com/iam_sohan',
-    "blog": 'https://blog.sohanchy.com',
+    "bing": 'https://bing.com',
     "omaigawdgif": 'https://brafootball.files.wordpress.com/2013/12/bwuhhh-gif-1.gif?w=830'
 };
